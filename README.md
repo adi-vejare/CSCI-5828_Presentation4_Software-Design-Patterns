@@ -3,4 +3,4 @@
 
 ![https://github.com/hariniiyer/CSCI-5828_Presentation4_Software-Design-Patterns/edit/master/README.md](https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQDyx6SDBF0wYKX7oVbtC-3-mmhmX0T0S1neRIapHQG9-7yWrw7)
 
-![https://github.com/hariniiyer/CSCI-5828_Presentation4_Software-Design-Patterns/edit/master/README.md](https://drive.google.com/a/colorado.edu/file/d/0B0BlCBbYOvRhYWhHejc5YmdtN2M/view?usp=sharing)
+![https://github.com/hariniiyer/CSCI-5828_Presentation4_Software-Design-Patterns/edit/master/README.md](blob:https%3A//mail.google.com/0933ea4f-b435-43f1-b6d3-508e75c44fe5)
