@@ -11,3 +11,4 @@ https://sourcemaking.com/design_patterns/strategy/cpp/1
 https://en.wikipedia.org/wiki/Strategy_pattern
 https://sourcemaking.com/design_patterns/strategy
 https://sourcemaking.com/files/v2/content/patterns/Strategy_example1-2x.png
+http://www.edureka.co/blog/design-pattern-exposed-strategy-pattern/
