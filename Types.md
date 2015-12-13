@@ -5,4 +5,5 @@
 
 1. Algorithmic Strategy Pattern
 2. Computational Design Pattern
-3. 
+3. Execution Pattern
+4. Implementation Strategy Pattern
