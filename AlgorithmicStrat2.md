@@ -128,3 +128,11 @@ int main()
   return 0;
 }
 </code></pre>
+
+The output of the above program is as follows:
+<pre><code>
+Exit(0) Left(1) Right(2) Center(3): 2
+Width: 75
+Exit(0) Left(1) Right(2) Center(3): 3
+Width: 75
+</code></pre>
