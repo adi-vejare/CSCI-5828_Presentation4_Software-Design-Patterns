@@ -4,7 +4,9 @@
 > They're a gist, a direction, and a rough set of guidelines to follow, and it makes it easy to explain to others what the heck you're doing. – Matt D
 </i></b>
 
-A Software Design Pattern can be called as the structure or skeletal idea used in designing a software. It is generally the model followed by the entire developement team. By following a particular design pattern, a team can think in a uniform and succint manner. This brings a great deal of orgranization and effective communication among them.
+A Software Design Pattern can be called as a structure, a template or skeletal idea used in designing a software. It is generally the model followed by the entire developement team. 
+
+By following a particular design pattern, a team can think in a uniform and succint manner. This brings a great deal of orgranization and effective communication among them.
 
 
 
