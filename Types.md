@@ -11,7 +11,7 @@
 
 <br>
 - As the number of patterns available has grown it became a necessity to organize these patterns into groups that shared the same set of properties namely,
-- Creational patterns  – They deal with process of object creation,
+- Creational patterns  – They deal with the process of object creation,
 - Behavioral patterns  – They deal with the communication among classes and objects,
 - Structural patterns  – They deal with composition of classes or objects and 
 - Concurrency patterns – They try to support synchronization.
