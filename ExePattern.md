@@ -15,7 +15,7 @@
   - Read-write lock pattern,
   - thread pool pattern.
 
-- We will see in detail the Active Object and the Monitor object patterns.
+- We will see the Active Object and the Monitor object patterns in detail.
 
 
 
