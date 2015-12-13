@@ -136,3 +136,5 @@ Width: 75
 Exit(0) Left(1) Right(2) Center(3): 3
 Width: 75
 </code></pre>
+
+[<img src="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQDyx6SDBF0wYKX7oVbtC-3-mmhmX0T0S1neRIapHQG9-7yWrw7" width="50" height="50"></img>](https://github.com/hariniiyer/CSCI-5828_Presentation4_Software-Design-Patterns/blob/master/CompDesign.md)
