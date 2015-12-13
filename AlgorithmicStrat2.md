@@ -1,5 +1,6 @@
 
 Consider the following program which is an example of Strategy Design pattern Implemented in C++:
+Strategy is the base class based on which the application class TestBed is developed. The base class provides us with an <i>Algorithmic</i> template to develope the application class.
 
 <pre><code>
 class Strategy;
