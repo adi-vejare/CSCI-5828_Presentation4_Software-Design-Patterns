@@ -8,3 +8,6 @@ https://daringfireball.net/projects/markdown/syntax
 http://us.123rf.com/450wm/radiantskies/radiantskies1211/radiantskies121100160/16083976-abstract-word-cloud-for-software-design-pattern-with-related-tags-and-terms.jpg
 http://www.techrepublic.com/article/reap-the-benefits-of-design-patterns-in-software-development/
 https://sourcemaking.com/design_patterns/strategy/cpp/1
+https://en.wikipedia.org/wiki/Strategy_pattern
+https://sourcemaking.com/design_patterns/strategy
+https://sourcemaking.com/files/v2/content/patterns/Strategy_example1-2x.png
