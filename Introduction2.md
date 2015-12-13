@@ -18,3 +18,5 @@ Some advantages of using software design patterns are as follows:
 <i>
 > Proper use of design patterns in software development allows you to exploit previous experience with proven arrangements of objects, greatly increasing the efficiency of the coding process. Apply design patterns in your next project and reap the benefits. 
 </i>
+
+[<img src="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQDyx6SDBF0wYKX7oVbtC-3-mmhmX0T0S1neRIapHQG9-7yWrw7" width="50" height="50"></img>](https://github.com/hariniiyer/CSCI-5828_Presentation4_Software-Design-Patterns/blob/master/Types.md)
