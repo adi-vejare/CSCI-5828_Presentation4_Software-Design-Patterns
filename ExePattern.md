@@ -1,12 +1,12 @@
 
-####EXECUTION PATTERN
+<b>EXECUTION PATTERN</b>
 
 - This pattern address issues related to application execution, including strategies for executing streams and tasks and also for the definition of building blocks to support synchronization. 
 - It covers Workflow patterns Concurrency patterns and Distributed Design patterns.
 
 
 
-###CONCURRENCY DESIGN PATTERNS
+<b>CONCURRENCY DESIGN PATTERNS</b>
 
 - Concurrency patterns are those types of design patterns that deal with the multi-threaded programming paradigm.
 - Some of the patterns that address various types of concurrency architecture and design issues for applications and systems are 
