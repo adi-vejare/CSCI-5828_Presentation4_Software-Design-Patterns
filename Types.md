@@ -7,3 +7,4 @@
 2. Computational Design Pattern
 3. Execution Pattern
 4. Implementation Strategy Pattern
+5. Structural Design Pattern
