@@ -10,3 +10,5 @@ Algorithmic Strategy Design Patterns or simply Strategy Design Patterns focus on
 To understand the concept exactly, look at the image above. The problem at hand is going to the airport. We need to choose one of the modes of transport to reach the airport. This decision is made at runtime based on cost, time taken to reach, availability, etc. Looking at this problem for a Strategy Design, we can say that the formula is take a mode on transport considering certain paramters but make the decision at runtime only.
 
 Thus, the Strategy Design pattern gives us the option of changing the behaviour at run-time dynamically.
+
+[<img src="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQDyx6SDBF0wYKX7oVbtC-3-mmhmX0T0S1neRIapHQG9-7yWrw7" width="50" height="50"></img>](https://github.com/hariniiyer/CSCI-5828_Presentation4_Software-Design-Patterns/blob/master/AlgorithmicStrat2.md)
