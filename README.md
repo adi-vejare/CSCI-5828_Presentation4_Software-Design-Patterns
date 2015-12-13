@@ -1,4 +1,6 @@
-# CSCI-5828_Presentation4_Software-Design-Patterns
+# CSCI-5828
+##Presentation 4
+###Software-Design-Patterns
 
 ![welcome](http://us.123rf.com/450wm/radiantskies/radiantskies1211/radiantskies121100160/16083976-abstract-word-cloud-for-software-design-pattern-with-related-tags-and-terms.jpg)
 
