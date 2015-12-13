@@ -8,3 +8,5 @@ Algorithmic Strategy Design Patterns or simply Strategy Design Patterns focus on
 <img src="https://sourcemaking.com/files/v2/content/patterns/Strategy_example1-2x.png" align="center" width="700" height = "400"></img>
 
 To understand the concept exactly, look at the image above. The problem at hand is going to the airport. We need to choose one of the modes of transport to reach the airport. This decision is made at runtime based on cost, time taken to reach, availability, etc. Looking at this problem for a Strategy Design, we can say that the formula is take a mode on transport considering certain paramters but make the decision at runtime only.
+
+Thus, the Strategy Design pattern gives us the option of changing the behaviour at run-time dynamically.
