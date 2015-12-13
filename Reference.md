@@ -27,5 +27,6 @@ https://en.wikipedia.org/wiki/Execution_pattern
 https://en.wikipedia.org/wiki/Software_design_pattern#Types
 http://www.unimasr.net/ums/upload/files/2011/Dec/UniMasr.com_3a8bf54773dd74e5b6a8886420ebba4d.pdf
 http://overactdev.com/blog/software-engineering-design-patterns/
+https://www.google.com/search?q=observer+pattern&biw=1366&bih=643&source=lnms&tbm=isch&sa=X&sqi=2&ved=0ahUKEwjO6MLw1dnJAhVI54MKHeaPAPsQ_AUIBygC#imgrc=Gkt87IkCvHZS0M%3A
 
 
