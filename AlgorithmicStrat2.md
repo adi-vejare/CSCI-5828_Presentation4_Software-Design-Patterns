@@ -2,11 +2,11 @@
 Consider the following program which is an example of Strategy Design pattern Implemented in C++:
 
 <pre><code>
-#include <iostream.h>
+# include <iostream.h>
 
-#include <fstream.h>
+# include <fstream.h>
 
-#include <string.h>
+# include <string.h>
 
 class Strategy;
 
