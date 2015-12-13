@@ -14,7 +14,3 @@
 
 
 [<img src="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQDyx6SDBF0wYKX7oVbtC-3-mmhmX0T0S1neRIapHQG9-7yWrw7" width="50" height="50"></img>](https://github.com/hariniiyer/CSCI-5828_Presentation4_Software-Design-Patterns/blob/master/Introduction.md)
-
-[<img src="https://github.com/hariniiyer/CSCI-5828_Presentation4_Software-Design-Patterns/edit/master/README.md"></img>](https://drive.google.com/a/colorado.edu/file/d/0B0BlCBbYOvRhaExCN0lSa0dZbEk/preview)
-
-(<iframe src="https://drive.google.com/a/colorado.edu/file/d/0B0BlCBbYOvRhaExCN0lSa0dZbEk/preview" width="640" height="480"></iframe>)
