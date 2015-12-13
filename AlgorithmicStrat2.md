@@ -1,7 +1,7 @@
 
 Consider the following program which is an example of Strategy Design pattern Implemented in C++:
 
-<code>
+<pre><code>
 
 #include <iostream.h>
 #include <fstream.h>
@@ -131,4 +131,4 @@ int main()
   }
   return 0;
 }
-</code>
+</code></pre>
