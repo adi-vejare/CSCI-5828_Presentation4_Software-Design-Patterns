@@ -7,7 +7,7 @@
 2. Computational Design Pattern
 3. [Execution Pattern](https://github.com/hariniiyer/CSCI-5828_Presentation4_Software-Design-Patterns/blob/master/ExePattern.md)
 4. Implementation Strategy Pattern
-5. [Structural Design Pattern](https://github.com/hariniiyer/CSCI-5828_Presentation4_Software-Design-Patterns/tree/master)
+5. [Structural Design Pattern](https://github.com/hariniiyer/CSCI-5828_Presentation4_Software-Design-Patterns/blob/master/Struct.md)
 
 <br>
 - As the number of patterns available has grown it became a necessity to organize these patterns into groups that shared the same set of properties namely,
