@@ -7,4 +7,4 @@ patterns in detail:</p>
    - Decorator
 
 
-[<img src="https://cloud.githubusercontent.com/assets/14101008/11768482/3d2d0bbc-a18b-11e5-8766-2e7f5b241782.png" width="50" height="50"></img>]https://github.com/hariniiyer/CSCI-5828_Presentation4_Software-Design-Patterns/blob/master/Adapter.md
+[<img src="https://cloud.githubusercontent.com/assets/14101008/11768482/3d2d0bbc-a18b-11e5-8766-2e7f5b241782.png" width="50" height="50"></img>](https://github.com/hariniiyer/CSCI-5828_Presentation4_Software-Design-Patterns/blob/master/Adapter.md)
