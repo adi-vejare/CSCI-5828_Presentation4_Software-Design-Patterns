@@ -1,6 +1,6 @@
 ###Comparison with Adapter Pattern
-  - Adapter is concerned with making componenets work after design. Bridge makes them work before design.
-  - Adapter resolves compatibility issues by retrofitting while Bridge invloves upfront design to
+  - Adapter is concerned with making components work after design. Bridge makes them work before design.
+  - Adapter resolves compatibility issues by retrofitting while Bridge involves upfront design to
   make abstraction and implementation work independently. 
 
 [<img src="https://cloud.githubusercontent.com/assets/14101008/11768481/3b7d20d6-a18b-11e5-95fe-a422966f4c03.png" width="50" height="50"></img>](https://github.com/hariniiyer/CSCI-5828_Presentation4_Software-Design-Patterns/blob/master/BridgeExample.md)
