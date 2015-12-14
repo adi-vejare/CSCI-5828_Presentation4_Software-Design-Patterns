@@ -5,3 +5,4 @@
 -	It is more flexible than inheritance
 -	It involves extending with new code rather than rewriting old ones
 -	A decorator class which encapsulates the original class is created
+-	It adds "decorations" or additional features to an element but does not change the basic structure
