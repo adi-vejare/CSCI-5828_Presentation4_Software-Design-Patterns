@@ -1,5 +1,5 @@
 
-Source:
+Sources:
 <pre>
 1) http://www.tutorialspoint.com/design_pattern/design_pattern_overview.htm
 2) https://pmsware.wordpress.com/tag/computational-design-patterns/
@@ -44,3 +44,5 @@ Source:
 41)https://dzone.com/articles/design-patterns-uncovered-0
 
 </pre>
+
+[<img src="https://cloud.githubusercontent.com/assets/14101008/11768481/3b7d20d6-a18b-11e5-95fe-a422966f4c03.png" width="50" height="50"></img>](https://github.com/hariniiyer/CSCI-5828_Presentation4_Software-Design-Patterns/blob/master/A&DCompare.md)
