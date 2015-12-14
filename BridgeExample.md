@@ -1,7 +1,7 @@
 ###Example
 <p>The <code>DrawAPI</code> interface acts as a bridge implementer. Concrete classes <code>RedCircle</code> and
 <code>GreenCircle</code> implement the <code>DrawAPI</code> interface. 
-<>Shape is an abstract class and will use object of <code>DrawAPI</code>.</p>
+<code>Shape</code> is an abstract class and will use object of <code>DrawAPI</code>.</p>
 
 ###Code
 <b>Bridge implementer interface <code>DrawAPI</code></b>
