@@ -1,5 +1,5 @@
 
-###Sources:
+Sources:
 <pre>
 1) http://www.tutorialspoint.com/design_pattern/design_pattern_overview.htm
 2) https://pmsware.wordpress.com/tag/computational-design-patterns/
@@ -26,22 +26,22 @@
 23) http://www.unimasr.net/ums/upload/files/2011/Dec/UniMasr.com_3a8bf54773dd74e5b6a8886420ebba4d.pdf
 24) http://overactdev.com/blog/software-engineering-design-patterns/
 25) https://www.google.com/search?q=observer+pattern&biw=1366&bih=643&source=lnms&tbm=isch&sa=X&sqi=2&ved=0ahUKEwjO6MLw1dnJAhVI54MKHeaPAPsQ_AUIBygC#imgrc=Gkt87IkCvHZS0M%3A
-26)https://en.wikipedia.org/wiki/Adapter_pattern
-27)https://en.wikipedia.org/wiki/Bridge_pattern
-28)https://en.wikipedia.org/wiki/Decorator_pattern
-29)http://www.tutorialspoint.com/design_pattern/adapter_pattern.htm
-30)http://www.tutorialspoint.com/design_pattern/bridge_pattern.htm
-31)http://www.tutorialspoint.com/design_pattern/decorator_pattern.htm
-32)http://www.lepus.org.uk/ref/companion/Bridge.xml
-33)https://sourcemaking.com/design_patterns/adapter
-34)https://sourcemaking.com/design_patterns/bridge
-35)https://sourcemaking.com/design_patterns/decorator
-36)http://www.oodesign.com/adapter-pattern.html
-37)http://www.oodesign.com/bridge-pattern.html
-38)http://www.oodesign.com/decorator-pattern.html
-39)http://code.tutsplus.com/tutorials/design-patterns-the-decorator-pattern--cms-22641
-40)https://dzone.com/articles/design-patterns-bridge
-41)https://dzone.com/articles/design-patterns-uncovered-0
+26) https://en.wikipedia.org/wiki/Adapter_pattern
+27) https://en.wikipedia.org/wiki/Bridge_pattern
+28) https://en.wikipedia.org/wiki/Decorator_pattern
+29) http://www.tutorialspoint.com/design_pattern/adapter_pattern.htm
+30) http://www.tutorialspoint.com/design_pattern/bridge_pattern.htm
+31) http://www.tutorialspoint.com/design_pattern/decorator_pattern.htm
+32) http://www.lepus.org.uk/ref/companion/Bridge.xml
+33) https://sourcemaking.com/design_patterns/adapter
+34) https://sourcemaking.com/design_patterns/bridge
+35) https://sourcemaking.com/design_patterns/decorator
+36) http://www.oodesign.com/adapter-pattern.html
+37) http://www.oodesign.com/bridge-pattern.html
+38) http://www.oodesign.com/decorator-pattern.html
+39) http://code.tutsplus.com/tutorials/design-patterns-the-decorator-pattern--cms-22641
+40) https://dzone.com/articles/design-patterns-bridge
+41) https://dzone.com/articles/design-patterns-uncovered-0
 
 </pre>
 
