@@ -1,6 +1,6 @@
 
 Source:
-
+<pre>
 1) http://www.tutorialspoint.com/design_pattern/design_pattern_overview.htm
 2) https://pmsware.wordpress.com/tag/computational-design-patterns/
 3) http://programmers.stackexchange.com/questions/219767/what-if-i-will-not-use-software-design-patterns
@@ -29,4 +29,4 @@ Source:
 24) http://overactdev.com/blog/software-engineering-design-patterns/
 25) https://www.google.com/search?q=observer+pattern&biw=1366&bih=643&source=lnms&tbm=isch&sa=X&sqi=2&ved=0ahUKEwjO6MLw1dnJAhVI54MKHeaPAPsQ_AUIBygC#imgrc=Gkt87IkCvHZS0M%3A
 
-
+</pre>
