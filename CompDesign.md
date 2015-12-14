@@ -1,2 +1,0 @@
-
-####Computational Design Pattern
